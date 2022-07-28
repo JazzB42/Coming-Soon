@@ -276,3 +276,12 @@ button,
   font-family: "Font Awesome 5 Brands";
   content: "\f08c";
 }
+      .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:#AAA;
+        color: white;
+        text-align: center;
+     }
